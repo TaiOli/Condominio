@@ -2,6 +2,10 @@
 Sistema de administração condominal
 Algumas imagens das telas
 
+## Tela Login
+Efetua o Login e cadastra um novo. Ao cadastrar um email de confimação de cadastro é enviado.
+![](https://github.com/TaiOli/Condominio/blob/master/login.png)
+
 ## Menu Principal e itens do menu inicio
 ![](https://github.com/TaiOli/Condominio/blob/master/menu-Inicio.png)
 
